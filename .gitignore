@@ -28,7 +28,9 @@ bin/
 ### Mac OS ###
 .DS_Store
 
-/lib### Intellij template
+/lib
+
+### Intellij template
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
@@ -130,32 +132,6 @@ fabric.properties
 hs_err_pid*
 replay_pid*
 
-# Gradle and Maven with auto-import
-# When using Gradle or Maven with auto-import, you should exclude module files,
-# since they will be recreated, and may cause churn.  Uncomment if using
-# auto-import.
-# .idea/artifacts
-# .idea/compiler.xml
-# .idea/jarRepositories.xml
-# .idea/modules.xml
-# .idea/*.iml
-# .idea/modules
-# *.iml
-# *.ipr
-
-# Gradle and Maven with auto-import
-# When using Gradle or Maven with auto-import, you should exclude module files,
-# since they will be recreated, and may cause churn.  Uncomment if using
-# auto-import.
-# .idea/artifacts
-# .idea/compiler.xml
-# .idea/jarRepositories.xml
-# .idea/modules.xml
-# .idea/*.iml
-# .idea/modules
-# *.iml
-# *.ipr
-
 ### Groovy template
 # .gitignore created from Groovy contributors in https://github.com/apache/groovy/blob/master/.gitignore
 
@@ -174,10 +150,6 @@ build/
 .shelf
 
 .settings/
-
-### JetBrains+iml template
-# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider
-# Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
 ### JENKINS_HOME template
 # Learn more about Jenkins and JENKINS_HOME directory for which this file is
